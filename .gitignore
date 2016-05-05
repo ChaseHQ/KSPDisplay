@@ -1,3 +1,13 @@
+#additional ignore
+build/
+nbproject/
+Debug/
+bin/
+obj/
+Release/
+dist/
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
